@@ -3,7 +3,6 @@
 > Full corporate network infrastructure built across 4 progressive phases using Cisco Packet Tracer.
 
 **Course:** Computer Networks · ISEL 2024/2025  
-**Team:** João Póvoa (51392) · Rafael Faustino (51394) · Sofia Salgado (51694)
 
 ---
 
