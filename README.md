@@ -18,13 +18,7 @@ This project builds a functional corporate network from scratch, phase by phase.
 
 ## Project Phases
 
-### Phase 1 — Web Server & TCP/IP Client
-
-Installation and configuration of a web server, with development of a custom HTTP client communicating over TCP/IP.
-
----
-
-### Phase 2 — Connecting Devices (LAN A & B)
+### Phase 1 — Connecting Devices (LAN A & B)
 
 First Cisco Packet Tracer setup: two network segments connected through a single router.
 
@@ -43,7 +37,7 @@ First Cisco Packet Tracer setup: two network segments connected through a single
 
 ---
 
-### Phase 3 — Connecting Multiple Networks
+### Phase 2 — Connecting Multiple Networks
 
 Expanded to a multi-router topology with a dedicated server LAN and simulated external access.
 
@@ -75,7 +69,7 @@ ip route 10.0.6.128 255.255.255.192 10.0.6.193    # → LAN B via R1
 
 ---
 
-### Phase 4 — Deploy Services
+### Phase 3 — Deploy Services
 
 Network services deployed on top of the Phase 3 topology. Clients no longer use static IPs — everything is assigned automatically.
 
