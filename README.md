@@ -1,4 +1,4 @@
-# Computer Networks Lab — ISEL
+# Corporate Network Infrastructure - Cisco Packet Tracer
 
 > Full corporate network infrastructure built across 4 progressive phases using Cisco Packet Tracer.
 
