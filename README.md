@@ -123,7 +123,6 @@ http://www.company.com      # page loaded successfully from PC1 and PC0
 | Tool | Use |
 |---|---|
 | Cisco Packet Tracer 8.2 | Full network simulation |
-| Wireshark | Protocol analysis (Phase 1) |
 | Cisco IOS CLI | Router configuration and verification |
 
 **Protocols covered:** IPv4, ICMP, ARP, DHCP (DORA), DNS, HTTP, HTTPS, static routing
